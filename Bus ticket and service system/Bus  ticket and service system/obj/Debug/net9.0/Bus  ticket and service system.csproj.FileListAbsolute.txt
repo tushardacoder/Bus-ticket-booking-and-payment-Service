@@ -1,0 +1,14 @@
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\bin\Debug\net9.0\Bus  ticket and service system.exe
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\bin\Debug\net9.0\Bus  ticket and service system.deps.json
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\bin\Debug\net9.0\Bus  ticket and service system.runtimeconfig.json
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\bin\Debug\net9.0\Bus  ticket and service system.dll
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\bin\Debug\net9.0\Bus  ticket and service system.pdb
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\obj\Debug\net9.0\Bus  ticket and service system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\obj\Debug\net9.0\Bus  ticket and service system.AssemblyInfoInputs.cache
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\obj\Debug\net9.0\Bus  ticket and service system.AssemblyInfo.cs
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\obj\Debug\net9.0\Bus  ticket and service system.csproj.CoreCompileInputs.cache
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\obj\Debug\net9.0\Bus  ticket and service system.dll
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\obj\Debug\net9.0\refint\Bus  ticket and service system.dll
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\obj\Debug\net9.0\Bus  ticket and service system.pdb
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\obj\Debug\net9.0\Bus  ticket and service system.genruntimeconfig.cache
+D:\Bus-ticket-booking-and-payment-Service\Bus ticket and service system\Bus  ticket and service system\obj\Debug\net9.0\ref\Bus  ticket and service system.dll
